@@ -8,7 +8,9 @@
 * [Collections](the-basics/collections.md)
 * [The GitBook editor](the-basics/the-gitbook-editor.md)
 * [Live edit and locked edits](the-basics/live-edit-and-locked-edits.md)
+* [GMI token](the-basics/gmi-token.md)
 * [Change requests](the-basics/change-requests.md)
+* [GGMI token](the-basics/ggmi-token.md)
 
 ## Publishing
 
@@ -21,3 +23,7 @@
 ## Next steps
 
 * [What next?](next-steps/what-next.md)
+
+## Handy Game
+
+* [Overview](handy-game/overview.md)

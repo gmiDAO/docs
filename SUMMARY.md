@@ -1,29 +1,14 @@
 # Table of contents
 
-* [Get Started](README.md)
+* [What, why and how](README.md)
 
-## The Basics
+## GMI ecosystem
 
-* [Spaces](the-basics/spaces.md)
-* [Collections](the-basics/collections.md)
-* [The GitBook editor](the-basics/the-gitbook-editor.md)
-* [Live edit and locked edits](the-basics/live-edit-and-locked-edits/README.md)
-  * [GGMI's tokenomics](the-basics/live-edit-and-locked-edits/ggmis-tokenomics.md)
-* [GMI token](the-basics/gmi-token.md)
-* [Change requests](the-basics/change-requests.md)
-* [GGMI token](the-basics/ggmi-token.md)
-
-## Publishing
-
-* [Publishing your content](publishing/publishing-your-content.md)
-
-## Tips and tricks
-
-* [Speed up with quick find](tips-and-tricks/speed-up-with-quick-find.md)
-
-## Next steps
-
-* [What next?](next-steps/what-next.md)
+* [Challenge Markets](gmi-ecosystem/challenge-markets.md)
+* [Multiplayer engine](gmi-ecosystem/multiplayer-engine.md)
+* [Play2Mint](gmi-ecosystem/play2mint.md)
+* [GGMI token](gmi-ecosystem/ggmi-token.md)
+* [GMI token](gmi-ecosystem/change-requests.md)
 
 ## Handy Game
 

@@ -2,7 +2,7 @@
 
 GMI is [gonnamakeit.app](http://gonnamakeit.app)'s utility token - this token serves to:
 
-* Fee discounts
+* Get fee discounts
 * Balance the fair value of the bet (collateral)
 * Discount in featured posts / sponsorships
 * Priority challenge listings

@@ -20,6 +20,8 @@ _Gonna Make It_ is a community-owned platform that allows to easily do marketing
 [play2mint.md](gmi-ecosystem/play2mint.md)
 {% endcontent-ref %}
 
+Anyone can see GMI´s deck [here](https://upm365-my.sharepoint.com/:p:/r/personal/m\_cores\_alumnos\_upm\_es/\_layouts/15/doc2.aspx?sourcedoc=%7Bdacec1ce-e6d9-4afd-9fd2-0ff26034b2be%7D\&action=default\&PreviousSessionID=42684f85-cb2f-f578-deb3-3eba43e1d611\&cid=64408e44-e186-4d09-a1c9-0c32d63af523).
+
 ### Why
 
 It is estimated that \~3.2B people play video games more than 7 hours per week.

@@ -22,9 +22,13 @@ _Gonna Make It_ is a community-owned platform that allows to easily do marketing
 
 ### Why
 
-In the information overload era, attracting people's attention has become harder than ever. With +3B gamers in the world, gaming is one of the biggest attention keepers on earth. Another big brain attractor is money. In this context, digital assets and social media allow for a new distribution paradigm where the long-tail is financially incentivized to promote their favourite projects.
+It is estimated that \~3.2B people play video games more than 7 hours per week.
 
-We thought that leveraging these forces to make a decentralized distribution machine based on the games and digital assets that people use would be a good media and entertainment tool.
+In 2020 people consumed +100B watch time hours in YouTube alone. In this context, +80,000 YouTube gaming creators hit 100K subscribers​, +1,000 YouTube gaming creators hit 5 million subscribers​ and +350 YouTube gaming creators hit 10 million subscribers​.
+
+Live-streamed gaming content was also on the rise​ with +27 billion hours of esports across Twitch, YouTube Gaming, and Facebook Gaming.
+
+Gonna Make It’s objective is to allow gamers, marketers and creators to do more with their favourite games, brands and assets.
 
 ### How&#x20;
 

@@ -8,6 +8,7 @@ GMI is [gonnamakeit.io](https://gonnamakeit.io)'s utility token - this token ser
 * Get entry fee discounts
 * Have under collateralization allowance
 * Discount in featured challenges, matches or tournaments
+* Boost GGMI staking rewards
 * ...
 
 

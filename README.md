@@ -8,7 +8,7 @@ _Gonna Make It_ is a community-owned platform that allows to easily do marketing
 [challenge-markets.md](gmi-ecosystem/challenge-markets.md)
 {% endcontent-ref %}
 
-**Multiplayer engine (ME):** anyone can easily create and play matches and tournaments for digital assets on existing games.
+**Multiplayer engine (ME):** anyone can easily create and play multiplayer matches and tournaments for digital assets on existing games.
 
 {% content-ref url="gmi-ecosystem/multiplayer-engine.md" %}
 [multiplayer-engine.md](gmi-ecosystem/multiplayer-engine.md)

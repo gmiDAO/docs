@@ -34,5 +34,5 @@ Gonna Make It’s objective is to allow gamers, marketers and creators to do mor
 
 ### How&#x20;
 
-_Gonna Make It_ is a community-owned brand with the mission to enable new experiences on existing games through [gonnamakeit.app](https://gonnamakeit.app).
+_Gonna Make It DAO_ is a community-owned brand with the mission to enable new experiences on existing games through [gonnamakeit.io](https://gonnamakeit.io).
 

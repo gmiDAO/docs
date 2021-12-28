@@ -40,3 +40,5 @@ Gonna Make It’s objective is to allow gamers, marketers and creators to do mor
 
 _Gonna Make It DAO_ is a community-owned brand with the mission to enable new experiences on existing games through [gonnamakeit.io](https://gonnamakeit.io).
 
+Nowadays the DAO is formed by [GMI's operating team](https://gonnamakeit.io/about) but The Handy Game will change this because all Hand NFT holders will get $GMI and $GGMI pre-IDO tokens thus joining gmiDAO. &#x20;
+

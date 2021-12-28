@@ -1,6 +1,6 @@
 # What, why and how
 
-_Gonna Make It_ is a community-owned platform that allows to easily do marketing, bet and earn digital assets on existing games through [gonnamakeit.app](https://gonnamakeit.app). Initially, it will provide the following tools:
+_Gonna Make It_ is a community-owned platform that allows to easily do marketing, bet and earn digital assets on existing games through [gonnamakeit.io](https://gonnamakeit.io). Initially, it will provide the following tools:
 
 **Challenge markets (CMs):** anyone can easily create and play challenges for digital assets on existing games.&#x20;
 
@@ -24,11 +24,15 @@ Anyone can see GMI´s deck [here](https://upm365-my.sharepoint.com/:p:/r/persona
 
 ### Why
 
-It is estimated that \~3.2B people play video games more than 7 hours per week.
+In the information overload era, attracting people's attention has become harder than ever.&#x20;
+
+With +3.2B people in the world playing video games more than 7 hours per week, gaming is one of the biggest attention keepers on earth.&#x20;
 
 In 2020 people consumed +100B watch time hours in YouTube alone. In this context, +80,000 YouTube gaming creators hit 100K subscribers​, +1,000 YouTube gaming creators hit 5 million subscribers​ and +350 YouTube gaming creators hit 10 million subscribers​.
 
 Live-streamed gaming content was also on the rise​ with +27 billion hours of esports across Twitch, YouTube Gaming, and Facebook Gaming.
+
+Another big brain attractor is money and now money is becoming digital.&#x20;
 
 Gonna Make It’s objective is to allow gamers, marketers and creators to do more with their favourite games, brands and assets.
 

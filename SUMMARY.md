@@ -13,4 +13,7 @@
 
 ## Handy Game
 
-* [Overview](handy-game/overview.md)
+* [Overview](handy-game/overview/README.md)
+  * [Phase 1](handy-game/overview/phase-1.md)
+  * [Phase 2](handy-game/overview/phase-2.md)
+  * [Hand NFTs after the Handy Game](handy-game/overview/hand-nfts-after-the-handy-game.md)

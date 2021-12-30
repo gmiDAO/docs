@@ -12,9 +12,9 @@ There are two types of challenges: free2play and pay2play.
 
 Marketers and creators can reward their audience with product/brand/community-related digital assets for winning free2play challenges in their favourite games.
 
-Users don't even need to have a Solana wallet to play these challenges.&#x20;
+Users only need to input their in-game userid to play these challenges - they don't even need to have a Solana wallet to play these challenges.&#x20;
 
-**The only way to do free2play challenges is by centralizing them. Because this is a centralized service given by gmiDAO, only gmiDAO members can create free2play challenges.**
+**The only way to do free2play challenges is by centralizing them. Because this is a centralized service provided by gmiDAO, only gmiDAO members can create free2play challenges.**
 
 #### Pay2play Challenges
 

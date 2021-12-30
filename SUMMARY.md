@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What, why and how](README.md)
+* [Why, how and what](README.md)
 
 ## GMI ecosystem
 

@@ -4,4 +4,4 @@ A new way to mint that favours the average Joe. Anyone can use this tool to drop
 
 #### Handy Game Phase 1 coming soon
 
-Hand NFTs can be minted as a discount if Clash Royale challenges are accomplished.
+Hand NFTs can be minted at a discount if Clash Royale challenges are accomplished.

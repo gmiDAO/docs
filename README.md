@@ -2,9 +2,9 @@
 
 ### Why Gonna Make It?
 
-A new web paradigm is being built, it's called web 3.0. In this new paradigm, platforms are decentralized and ownership is shared among network participants.
+A new web paradigm is being built, its name is web 3.0. In this new paradigm, platforms are decentralized and ownership is shared among network participants.
 
-However, the transition must start in current user habits... self custody and ... are huge user behavioral shifts...
+However, the transition must start from current user habits... self custody and ... are huge user behavioral shifts...
 
 _Gonna Make It'_s mission is to enable the transition from web 2.0 to web 3.0 at scale.
 

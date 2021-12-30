@@ -2,9 +2,9 @@
 
 ### Why Gonna Make It?
 
-A new web is being built, it's called web 3.0. In this new paradigm pla
+A new web paradigm is being built, it's called web 3.0. In this new paradigm, platforms are decentralized and ownership is shared among network participants.
 
-However the transition must start in current user habits... self custody and ... are huge user behavioral shifts...
+However, the transition must start in current user habits... self custody and ... are huge user behavioral shifts...
 
 _Gonna Make It'_s mission is to enable the transition from web 2.0 to web 3.0 at scale.
 
@@ -18,11 +18,11 @@ In 2020 people consumed +100B watch time hours in YouTube alone. In this context
 Live-streamed gaming content was also on the rise​ with +27 billion hours of esports across Twitch, YouTube Gaming, and Facebook Gaming.
 {% endhint %}
 
-Another big brain attractor is money and thanks to digital assets, new assets can be built and accrue value...&#x20;
+Another big brain attractor is money and thanks to digital assets, new assets can be built and accrue value
 
 ### What Gonna Make It?
 
-_Gonna Make It_ is a platform owned and operated by _Gonna Make It DAO_. It allows to easily do marketing, bet and earn digital assets on existing games through [gonnamakeit.io](https://gonnamakeit.io). Initially, it will provide the following tools:
+_Gonna Make It'_s platform allows to easily do marketing, bet and earn digital assets on existing games through [gonnamakeit.io](https://gonnamakeit.io). Initially, it will provide the following tools:
 
 **Challenge markets (CMs):** anyone can easily create and play challenges for digital assets on existing games.&#x20;
 
@@ -41,5 +41,7 @@ _Gonna Make It_ is a platform owned and operated by _Gonna Make It DAO_. It allo
 {% content-ref url="gmi-ecosystem/play2mint.md" %}
 [play2mint.md](gmi-ecosystem/play2mint.md)
 {% endcontent-ref %}
+
+The platform is owned and operated by _Gonna Make It DAO (gmiDAO)_.&#x20;
 
 Anyone can see GMI´s deck [here](https://upm365-my.sharepoint.com/:p:/r/personal/m\_cores\_alumnos\_upm\_es/\_layouts/15/doc2.aspx?sourcedoc=%7Bdacec1ce-e6d9-4afd-9fd2-0ff26034b2be%7D\&action=default\&PreviousSessionID=42684f85-cb2f-f578-deb3-3eba43e1d611\&cid=64408e44-e186-4d09-a1c9-0c32d63af523).

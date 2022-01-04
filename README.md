@@ -38,8 +38,8 @@ Initially, [gonnamakeit.io](https://gonnamakeit.io) will provide the following t
 
 **Challenge markets (CMs):** anyone can easily create and play challenges for digital assets on existing games.&#x20;
 
-{% content-ref url="gmi-ecosystem/challenge-markets.md" %}
-[challenge-markets.md](gmi-ecosystem/challenge-markets.md)
+{% content-ref url="gmi-ecosystem/challenge-markets/" %}
+[challenge-markets](gmi-ecosystem/challenge-markets/)
 {% endcontent-ref %}
 
 **Multiplayer engine (ME):** anyone can easily create and play multiplayer matches and tournaments for digital assets on existing games.

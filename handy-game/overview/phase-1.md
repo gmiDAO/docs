@@ -7,8 +7,8 @@ gmiDAO will be issuing [“](https://www.figma.com/file/5VvBffIY7XLeZbYD1UGPkG/G
 
 HANDY GAME's marketing size allowance policy per hand:​
 
-* Diamond hand: 8 pixels (images & gifs) +  sound + brand teams.​
-  * Tungsten hand: 4 pixels (images & gifs) + sound.​
+* Diamond hand: 8 pixels videos + brand teams.​
+  * Tungsten hand: 4 pixels videos.​
     * Paper hand: 1 pixel (images & gifs).​
 
 {% embed url="https://youtu.be/5V7d-Jp7ehc" %}

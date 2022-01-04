@@ -2,7 +2,7 @@
 
 $GGMI is gmiDAO's governance token.&#x20;
 
-It can be earned by **playing and referring** GMI experiences.
+It can be earned by **playing, referring and creating** GMI experiences.
 
 $GGMI holders will be able to claim rewards if they stake their tokens and participate in key governance votes.
 
@@ -30,13 +30,17 @@ The Treasury receives inflows from:
 
 More streams will be added in the future from new opportunities present themselves.
 
-| Use                          | Total Supply (MM) | %   | Comments                      |
-| ---------------------------- | ----------------- | --- | ----------------------------- |
-| Play to earn                 | 200               | 20  |                               |
-| Refer to earn                | 90                | 9   |                               |
-| Staking rewards              | 200               | 20  |                               |
-| Ecosystem Fund               | 50                | 5   |                               |
-| Gonna Make It Operating Team | 290               | 29  |                               |
-| Advisors                     | 70                | 7   |                               |
-| Fair Launch                  | 100               | 10  | 2.5% will go to hand holders. |
-|                              | 1000              | 100 |                               |
+### Tokenomics
+
+$GGMI tokenomics are the following:
+
+| Use               | Total Supply (MM) | %   | Comments                                                              |
+| ----------------- | ----------------- | --- | --------------------------------------------------------------------- |
+| NFT Holders       | 250               | 25  | For people staking NFTs (no need for voting)                          |
+| Staking rewards   | 250               | 25  | For people who stake $GGMI &/or NFTs and vote in gmiDAO's decisions   |
+| Play to earn      | 40                | 4   |                                                                       |
+| Refer to earn     | 60                | 6   |                                                                       |
+| Create to earn    | 100               | 10  | For people who create widely played challenges, rooms and tournaments |
+| Strategic Reserve | 150               | 15  |                                                                       |
+| IDO Pool          | 150               | 15  |                                                                       |
+|                   | 1000              | 100 |                                                                       |

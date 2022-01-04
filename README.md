@@ -1,4 +1,4 @@
-# Why, how and what
+# Why, how(\&who) and what
 
 ### Why _Gonna Make It_?
 
@@ -20,13 +20,21 @@ In 2020 people consumed +100B watch time hours in YouTube alone. In this context
 Live-streamed gaming content was also on the rise​ with +27 billion hours of esports across Twitch, YouTube Gaming, and Facebook Gaming.
 {% endhint %}
 
-Another big brain attractor is money and thanks to blockchain technology, new digital assets can be built from scratch. Given their digital scarcity and easily verifiable ownership these assets can accrue value...
+Another big brain attractor is money and thanks to blockchain technology, creating scarce digital assets that accrue value in open markets is in anyone's reach.
 
-_Gonna Make It_'s platform aims to join The gaming and crypto communities' hub. The platform is owned and operated by _Gonna Make It DAO (gmiDAO)_ - an organization that anyone can join by holding $GMI and $GGMI tokens.
+__[_Gonna Make It_'s platform](https://gonnamakeit.io) aims to join the gaming and crypto communities' by providing the tools to trustlessly earn and bet digital assets on existing games. Given that gaming and money are two of the biggest attention keepers on earth, we think that [gonnamakeit.io](https://gonnamakeit.io) can be leveraged as alternative content creation and interactive marketing tool.
+
+#### Who _Gonna Make It_?
+
+The platform is owned and operated by _Gonna Make It DAO (gmiDAO)_ - an organization that anyone can join by holding $GMI and $GGMI tokens. See our legal entity [here](https://find-and-update.company-information.service.gov.uk/company/13803149).
+
+Currently the only gmiDAO members are the [Gonna Make It team](https://gonnamakeit.io/about).
 
 ### What _Gonna Make It_?
 
-_Gonna Make It'_s platform allows to easily do marketing, bet and earn digital assets on existing games through [gonnamakeit.io](https://gonnamakeit.io). Initially, it will provide the following tools:
+As explained, _Gonna Make It'_s platform allows to easily earn and bet digital assets on existing games through [gonnamakeit.io](https://gonnamakeit.io).&#x20;
+
+Initially, [gonnamakeit.io](https://gonnamakeit.io) will provide the following tools:
 
 **Challenge markets (CMs):** anyone can easily create and play challenges for digital assets on existing games.&#x20;
 

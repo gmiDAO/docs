@@ -1,4 +1,4 @@
-# Why, how(\&who) and what
+# Why, how, who and what
 
 ### Why _Gonna Make It_?
 
@@ -24,7 +24,7 @@ Another big brain attractor is money and thanks to blockchain technology, creati
 
 Using the different games' apis as oracles to trigger smart contracts in Solana, [_Gonna Make It_'s platform](https://gonnamakeit.io) allows to easily earn and bet digital assets on existing games. Given that gaming and money are two of the biggest attention keepers on earth, we think that [gonnamakeit.io](https://gonnamakeit.io) can be leveraged as alternative content creation and interactive marketing tool.
 
-#### Who _Gonna Make It_?
+### Who _Gonna Make It_?
 
 The platform is owned and operated by _Gonna Make It DAO (gmiDAO)_ - an organization that anyone can join by holding $GMI and $GGMI tokens. See our legal entity [here](https://find-and-update.company-information.service.gov.uk/company/13803149).
 

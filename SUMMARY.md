@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Why, how(\&who) and what](README.md)
+* [Why, how, who and what](README.md)
 
 ## GMI ecosystem
 

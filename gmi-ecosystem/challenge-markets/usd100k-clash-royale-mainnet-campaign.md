@@ -1,15 +1,29 @@
 # $100K Clash Royale mainnet campaign
 
-We have been accumulating Solana NFTs worth more than $100K to have them as prizes of our free2play Clash Royale Challenges.
+To celebrate its birth, GMI will be launching Clash Royale Challenges with NFTs worth $100k as prizes.&#x20;
 
-To celebrate its birth, GMI will be launching Clash Royale Challenges with NFTs worth $100k as prizes. To obtain access to these challenges and win NFTs, one needs $GMI tokens. These tokens can be earned by performing certain tasks on the GMI platform. How To Enter GMI utility tokens ($GMI) are required to enter any of the challenges listed below. Players can earn 10 $GMI by winning a Clash Royale match on gonnamakeit.io. Once this is done, anyone can perform the under-listed tasks to earn more $GMI tokens. 20 GMI tokens: refer people with your referral link. THE PERSON YOU REFERRED earns 5 GMI TOKENS TOO! 5 GMI tokens: Join our discord! (Handle) 5 GMI tokens: Follow @GonnaMakeIt\_HQ on Twitter 5 GMI tokens: Follow @thehandygame on Twitter 5 GMI tokens: Follow @theHandyGame on Tiktok 5 GMI tokens: Follow @theHandygame\_official on Instagram 5 GMI tokens: Follow @gonnamakeit\_hq on Instagram Performing the tasks above earns you $50 GMI tokens, the minimum requirement to enter a challenge in order to win an NFT. One can also perform other tasks to earn more $GMI tokens in other to player challenges with higher NFT rewards. Some other ways to earn $GMI includes; Participate in daily Meme Contest to win up to 250 $GMI Participate in daily Video Contest to win up to 250 $GMI Accomplish daily challenges to win up to 250 $GMI One can utilize the referral option to earn as much $GMI as s/he wants. Challenges and Requirements Challenges and the NFTs to be won are listed as follows;
+To obtain access to these challenges and win NFTs, one needs $GMI tokens. These tokens can be earned by performing certain tasks on the GMI platform. How To Enter GMI utility tokens ($GMI) are required to enter any of the challenges listed below. Players can earn 10 $GMI by winning a Clash Royale match on gonnamakeit.io. Once this is done, anyone can perform the under-listed tasks to earn more $GMI tokens.&#x20;
 
+* 20 GMI tokens: refer people with your referral link. THE PERSON YOU REFERRED earns 5 GMI TOKENS TOO!&#x20;
+* 5 GMI tokens: Join our discord!
+* 5 GMI tokens: Follow @GonnaMakeIt\_HQ on Twitter&#x20;
+* 5 GMI tokens: Follow @thehandygame on Twitter&#x20;
+* 5 GMI tokens: Follow @theHandyGame on Tiktok&#x20;
+* 5 GMI tokens: Follow @theHandygame\_official on Instagram&#x20;
+* 5 GMI tokens: Follow @gonnamakeit\_hq on Instagram&#x20;
 
+Performing the tasks above earns you $50 GMI tokens, the minimum requirement to enter a challenge in order to win an NFT. One can also perform other tasks to earn more $GMI tokens in other to player challenges with higher NFT rewards. Some other ways to earn $GMI includes;&#x20;
+
+* Participate in daily Meme Contest to win up to 250 $GMI&#x20;
+* Participate in daily Video Contest to win up to 250 $GMI&#x20;
+* Accomplish daily challenges to win up to 250 $GMI &#x20;
+
+Challenges and Requirements Challenges and the NFTs to be won are listed as follows;
 
 | Challenge           | Prize (NFT)             | Number | Entry Requirement | Arena Level | Challenge Instructions                               |
 | ------------------- | ----------------------- | ------ | ----------------- | ----------- | ---------------------------------------------------- |
 | $45K NFT challenge  | MonkeDAO NFT            | 1      | 6000 GMI Tokens   | > League 3  | Win at least 27 crowns in 9 battles to earn this SMB |
-| $16K NFT challenge  | Shadowy Super Coder DAO | 2      | 3,000 GMI Tokens  | > League 2  | Win at least 25 crowns in 9 battles                  |
+| $20K NFT challenge  | Shadowy Super Coder DAO | 1      | 3,000 GMI Tokens  | > League 2  | Win at least 25 crowns in 9 battles                  |
 | $10K NFT challenge  | Thug DAO                | 1      | 2,300 GMI Tokens  | > League 1  | Win at least 24 crowns in 8 battles                  |
 | $2.2K NFT challenge | Playground Waves        | 1      | 1,100 GMI Tokens  | > Arena 12  | Win at least 23 crowns in 8 battles                  |
 | $1.5K NFT challenge | Galactic Geckos         | 1      | 840 GMI Tokens    | > Arena 11  | Win at least 22 crowns in 8 battles                  |

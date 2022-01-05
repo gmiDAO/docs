@@ -20,9 +20,9 @@ In 2020 people consumed +100B watch time hours in YouTube alone. In this context
 Live-streamed gaming content was also on the rise​ with +27 billion hours of esports across Twitch, YouTube Gaming, and Facebook Gaming.
 {% endhint %}
 
-Another big brain attractor is money and thanks to blockchain technology, creating scarce digital assets that accrue value in open markets is in anyone's reach.
+Another big brain attractor is money and thanks to blockchain technology, creating scarce digital assets that accrue value in open markets is within anyone's reach.
 
-Using the different games' apis as oracles to trigger smart contracts in Solana, [_Gonna Make It_'s platform](https://gonnamakeit.io) allows to easily earn and bet digital assets on existing games. Given that gaming and money are two of the biggest attention keepers on earth, we think that [gonnamakeit.io](https://gonnamakeit.io) can be leveraged as alternative content creation and interactive marketing tool.
+Using the different games' APIs as oracles to trigger smart contracts in Solana, [_Gonna Make It_'s platform](https://gonnamakeit.io) allows to easily earn and bet digital assets on existing games. Given that gaming and money are two of the biggest attention keepers on earth, we think that [gonnamakeit.io](https://gonnamakeit.io) can be leveraged as alternative content creation and interactive marketing tool.
 
 ### Who _Gonna Make It_?
 

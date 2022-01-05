@@ -28,7 +28,7 @@ Using the different games' apis as oracles to trigger smart contracts in Solana,
 
 The platform is owned and operated by _Gonna Make It DAO (gmiDAO)_ - an organization that anyone can join by holding $GMI and $GGMI tokens. See our legal entity [here](https://find-and-update.company-information.service.gov.uk/company/13803149).
 
-Currently the only gmiDAO members are the [Gonna Make It team](https://gonnamakeit.io/about) but it aims to be the hub for two of the fiercest communiies in the metaverse: the crypto and gaming communities.
+Currently the only gmiDAO members are the [Gonna Make It team](https://gonnamakeit.io/about) but it aims to be a hub owned by two of the fiercest communities in the metaverse: the crypto and gaming communities.
 
 ### What _Gonna Make It_?
 

@@ -2,15 +2,17 @@
 
 To celebrate its birth, GMI will be launching Clash Royale Challenges with NFTs worth $100k as prizes.&#x20;
 
-To obtain access to these challenges and win NFTs, one needs $GMI tokens. These tokens can be earned by performing certain tasks on the GMI platform. How To Enter GMI utility tokens ($GMI) are required to enter any of the challenges listed below. Players can earn 10 $GMI by winning a Clash Royale match on gonnamakeit.io. Once this is done, anyone can perform the under-listed tasks to earn more $GMI tokens.&#x20;
+To obtain access to these challenges and win NFTs, one needs $GMI tokens.&#x20;
 
-* 20 GMI tokens: refer people with your referral link. THE PERSON YOU REFERRED earns 5 GMI TOKENS TOO!&#x20;
+Players can earn 10 $GMI by winning a Clash Royale match on gonnamakeit.io. Once this is done, anyone can perform the under-listed tasks to earn more $GMI tokens.&#x20;
+
+* 20 GMI tokens: refer people with your referral link. The person you referred earns 5 GMI TOKENS TOO!&#x20;
 * 5 GMI tokens: Join our discord!
 * 5 GMI tokens: Follow @GonnaMakeIt\_HQ on Twitter&#x20;
 * 5 GMI tokens: Follow @thehandygame on Twitter&#x20;
-* 5 GMI tokens: Follow @theHandyGame on Tiktok&#x20;
-* 5 GMI tokens: Follow @theHandygame\_official on Instagram&#x20;
-* 5 GMI tokens: Follow @gonnamakeit\_hq on Instagram&#x20;
+* 5 GMI tokens: Follow @theHandyGame on Tiktok (TBD)
+* 5 GMI tokens: Follow @theHandygame\_official on Instagram (TBD)
+* 5 GMI tokens: Follow @gonnamakeit\_hq on Instagram (TBD)
 
 Performing the tasks above earns you $50 GMI tokens, the minimum requirement to enter a challenge in order to win an NFT. One can also perform other tasks to earn more $GMI tokens in other to player challenges with higher NFT rewards. Some other ways to earn $GMI includes;&#x20;
 

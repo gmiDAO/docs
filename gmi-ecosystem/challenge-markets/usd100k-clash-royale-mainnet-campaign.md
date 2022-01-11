@@ -14,13 +14,13 @@ Players can earn 10 $GMI by winning a Clash Royale match on gonnamakeit.io. Once
 * 5 GMI tokens: Follow @theHandygame\_official on Instagram (TBD)
 * 5 GMI tokens: Follow @gonnamakeit\_hq on Instagram (TBD)
 
-Performing the tasks above earns you $50 GMI tokens, the minimum requirement to enter a challenge in order to win an NFT. One can also perform other tasks to earn more $GMI tokens in other to player challenges with higher NFT rewards. Some other ways to earn $GMI includes;&#x20;
+Performing the tasks above earns you $50 GMI tokens, the minimum requirement to enter a challenge in order to win an NFT. One can also perform other tasks to earn more $GMI tokens in order to play challenges with higher NFT rewards. Other ways to earn $GMI include:
 
 * Participate in daily Meme Contest to win up to 250 $GMI&#x20;
 * Participate in daily Video Contest to win up to 250 $GMI&#x20;
 * Accomplish daily challenges to win up to 250 $GMI &#x20;
 
-Challenges and Requirements Challenges and the NFTs to be won are listed as follows;
+These are the challenges that will be live in the platform:
 
 | Challenge           | Prize (NFT)             | Number | Entry Requirement | Arena Level | Challenge Instructions                               |
 | ------------------- | ----------------------- | ------ | ----------------- | ----------- | ---------------------------------------------------- |
@@ -48,4 +48,4 @@ Challenges and Requirements Challenges and the NFTs to be won are listed as foll
 | $7 NFT challenge    | Knightdom               | 20     | 50 GMI Tokens     | > Arena 2   | Win at least 8 crowns in three battles               |
 | $7 NFT challenge    | Thugettes               | 1      | 50 GMI Tokens     | > Arena 2   | Win at least 8 crowns in three battles               |
 
-All challenges listed above are free to play. All that is required are $GMI tokens to serve as entry fees and these tokens can be earned for free by performing different outlined tasks. On completion and win of a challenge, players will be sent the NFT they won to their wallet.
+All challenges listed above are free to play. All that is required are $GMI tokens to serve as entry fees and these tokens can be earned for free by performing different tasks. If a player wins the challenges they will receive the prize automatically within seconds.

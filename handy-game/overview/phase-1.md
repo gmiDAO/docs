@@ -20,5 +20,5 @@ Hand supply (21K) issued according to the following procedure:​
 * Normal mint. ​
   * Pay 2 SOL to get a hand.​
 * Play2mint. ​
-  * Play Clash Royale challenges to mint for 0, 0.67, or 1.3 SOL.​
+  * Play Clash Royale challenges to mint for 0, 0.67, or 1.3 SOL - discount size directly correlated with relative difficulty level.​
     * Challenges get harder as hands sell out.

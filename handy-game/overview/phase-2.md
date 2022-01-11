@@ -2,7 +2,7 @@
 
 10-day Clash Royale race - the more crowns won, the better.​
 
-* Anyone with a Clash Royale account and Solana wallet can play for free. ​
+* Anyone with a Clash Royale account and Solana wallet can play for free to get the most stake of 50% of Phase's 1 revenue. ​
 
 {% embed url="https://youtu.be/X3qz_bVKDM4" %}
 Handy Game - Play2Earn Explanation

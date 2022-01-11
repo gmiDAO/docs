@@ -2,9 +2,9 @@
 
 ### Why _Gonna Make It_?
 
-A new web paradigm is being built, its name is web 3.0. In this new paradigm, platforms are decentralized and ownership is shared among platform participants.
+A new web paradigm is being built, its name is web 3.0. Because in web 3.0 ownership and upside are shared among platform participants, this new paradigm can create a more inclusive economy.
 
-Even though web 3.0 offers a whole new design space for consumer layer applications, the change must start from current user habits. As Clayton Christensen says in _The Innovator's Dilemma_:
+Even though web 3.0 offers a whole new design space for consumer layer applications, the change must start from current user demand and habits. As Clayton Christensen says in _The Innovator's Dilemma_:
 
 > "A technology has the potential to be _disruptive_ if the trajectory of improvement is steep enough to intersect the demand of the mainstream market."&#x20;
 
@@ -28,7 +28,7 @@ Using the different games' APIs as oracles to trigger smart contracts in Solana,
 
 The platform is owned and operated by _Gonna Make It DAO (gmiDAO)_ - an organization that anyone can join by holding $GMI and $GGMI tokens. See our legal entity [here](https://find-and-update.company-information.service.gov.uk/company/13803149).
 
-Currently the only gmiDAO members are the [Gonna Make It team](https://gonnamakeit.io/about) but it aims to be a hub owned by two of the fiercest communities in the metaverse: the crypto and gaming communities.
+Currently, the only gmiDAO members are the [Gonna Make It team](https://gonnamakeit.io/about) but it aims to be a hub owned by two of the fiercest communities in the metaverse: the gaming and crypto communities.
 
 ### What _Gonna Make It_?
 
@@ -36,13 +36,13 @@ As explained, _Gonna Make It'_s platform allows to easily earn and bet digital a
 
 Initially, [gonnamakeit.io](https://gonnamakeit.io) will provide the following tools:
 
-**Challenge markets (CMs):** anyone can easily create and play challenges for digital assets on existing games.&#x20;
+**Challenge Markets (CMs):** anyone can easily create and play challenges for digital assets on existing games.&#x20;
 
 {% content-ref url="gmi-ecosystem/challenge-markets/" %}
 [challenge-markets](gmi-ecosystem/challenge-markets/)
 {% endcontent-ref %}
 
-**Multiplayer engine (ME):** anyone can easily create and play multiplayer matches and tournaments for digital assets on existing games.
+**Multiplayer Engine (ME):** anyone can easily create and play multiplayer matches and tournaments for digital assets on existing games.
 
 {% content-ref url="gmi-ecosystem/multiplayer-engine.md" %}
 [multiplayer-engine.md](gmi-ecosystem/multiplayer-engine.md)

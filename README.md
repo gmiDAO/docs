@@ -2,7 +2,7 @@
 
 ### Why _Gonna Make It_?
 
-A new web paradigm is being built, its name is web 3.0. Because in web 3.0 ownership and upside are shared among platform participants, this new paradigm can create a more inclusive economy.
+A new web paradigm is being built, its name is web 3.0. This new paradigm has the potential to create a more inclusive economy by sharing ownership and upside among platform participants.
 
 Even though web 3.0 offers a whole new design space for consumer layer applications, the change must start from current user demand and habits. As Clayton Christensen says in _The Innovator's Dilemma_:
 

@@ -1,6 +1,6 @@
 # $100K Clash Royale mainnet campaign
 
-To celebrate its birth, GMI will be launching Clash Royale Challenges with NFTs worth $100k as prizes.&#x20;
+To celebrate its birth, _Gonna Make It_ will be launching Clash Royale Challenges with NFTs worth $100k as prizes.&#x20;
 
 To obtain access to these challenges and win NFTs, one needs $GMI tokens.&#x20;
 
@@ -20,7 +20,7 @@ Once this is done, anyone can perform the under-listed tasks to earn more $GMI t
 * 5 GMI tokens: Follow @theHandygame\_official on Instagram (TBD)
 * 5 GMI tokens: Follow @gonnamakeit\_hq on Instagram (TBD)
 
-Performing the tasks above earns you $50 GMI tokens, the minimum requirement to enter a challenge in order to win an NFT. One can also perform other tasks to earn more $GMI tokens in order to play challenges with higher NFT rewards. Other ways to earn $GMI include:
+Performing the tasks above earns you 50 $GMI tokens, the minimum requirement to enter a challenge in order to win an NFT. One can also perform other tasks to earn more $GMI tokens in order to play challenges with higher NFT rewards. Other ways to earn $GMI include:
 
 * Participate in daily Meme Contest to win up to 250 $GMI&#x20;
 * Participate in daily Video Contest to win up to 250 $GMI&#x20;

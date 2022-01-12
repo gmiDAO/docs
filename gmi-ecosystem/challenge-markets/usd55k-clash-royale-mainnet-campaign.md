@@ -1,6 +1,6 @@
-# $100K Clash Royale mainnet campaign
+# $55K Clash Royale mainnet campaign
 
-To celebrate its birth, _Gonna Make It_ will be launching Clash Royale Challenges with NFTs worth $100k as prizes.&#x20;
+To celebrate its birth, _Gonna Make It_ will be launching Clash Royale Challenges with NFTs worth $55k as prizes.&#x20;
 
 To obtain access to these challenges and win NFTs, one needs $GMI tokens.&#x20;
 

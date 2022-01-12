@@ -2,6 +2,10 @@
 
 The Handy Game is a strategy to introduce the GMI platform using the GMI platform.
 
+{% embed url="https://www.youtube.com/watch?v=YCbOF4y2J2o" %}
+GMI in a nutshell + The Handy Game Explanation
+{% endembed %}
+
 Who plays? Anyone.​
 
 Who wins? Everyone.​

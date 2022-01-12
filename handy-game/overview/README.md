@@ -2,10 +2,6 @@
 
 The Handy Game is a strategy to introduce the GMI platform using the GMI platform.
 
-{% embed url="https://www.youtube.com/watch?v=YCbOF4y2J2o" %}
-GMI in a nutshell + The Handy Game in a nutshell
-{% endembed %}
-
 Who plays? Anyone.​
 
 Who wins? Everyone.​
@@ -17,8 +13,8 @@ Who wins? Everyone.​
   * Thus, everyone is incentivised to get a viral HANDY GAME. ​
     * When HANDY GAME goes viral, big companies will support with their commercials → ↑Revenue → ↑ Higher prize & donation → Better GMI Story
 
-{% embed url="https://youtu.be/iU8m7xMizxA" %}
-Handy Game - coming soon.
+{% embed url="https://www.youtube.com/watch?v=YCbOF4y2J2o" %}
+GMI in a nutshell + The Handy Game in a nutshell
 {% endembed %}
 
 Anyone can see Handy Game's deck [here](https://upm365-my.sharepoint.com/:p:/g/personal/m\_cores\_alumnos\_upm\_es/EXKufPAUOPtOnaSX-UGIOt8BdVkfUmP94I-lKwAiRu6u3A?e=z2zhEy)

@@ -24,7 +24,8 @@ Performing the tasks above earns you 50 $GMI tokens, the minimum requirement to 
 
 * Participate in daily Meme Contest to win up to 250 $GMI&#x20;
 * Participate in daily Video Contest to win up to 250 $GMI&#x20;
-* Accomplish daily challenges to win up to 250 $GMI &#x20;
+* Accomplish daily Clash Royale challenges to win up to 250 $GMI
+* Get up to $250 GMI by providing good feedback
 
 These are the challenges that will be live in the platform:
 

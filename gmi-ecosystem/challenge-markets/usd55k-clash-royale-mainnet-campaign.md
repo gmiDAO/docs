@@ -10,7 +10,7 @@ Players can earn 10 $GMI by winning a Clash Royale match on gonnamakeit.io.&#x20
 How to easily earn $10 GMI by winning a Clash Royale Match on gonnamakeit.io
 {% endembed %}
 
-Once this is done, anyone can perform the under-listed tasks to earn more $GMI tokens.&#x20;
+Once this is done, anyone can perform the following tasks to earn more $GMI tokens.&#x20;
 
 * 20 GMI tokens: refer people with your referral link. The person you referred earns 5 GMI TOKENS TOO!&#x20;
 * 5 GMI tokens: Join our discord!

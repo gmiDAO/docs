@@ -20,12 +20,18 @@ Once this is done, anyone can perform the following tasks to earn more $GMI toke
 * 5 GMI tokens: Follow @theHandygame\_official on Instagram (TBD)
 * 5 GMI tokens: Follow @gonnamakeit\_hq on Instagram (TBD)
 
-Performing the tasks above earns you 50 $GMI tokens, the minimum requirement to enter a challenge in order to win an NFT. One can also perform other tasks to earn more $GMI tokens in order to play challenges with higher NFT rewards. Other ways to earn $GMI include:
+Performing the tasks above one earns 50 $GMI tokens, the minimum requirement to enter a challenge in order to win an NFT. One can also perform other tasks to earn more $GMI tokens in order to play challenges with higher NFT rewards. Other ways to earn $GMI include:
 
 * Participate in daily Meme Contest to win up to 250 $GMI&#x20;
 * Participate in daily Video Contest to win up to 250 $GMI&#x20;
 * Accomplish daily Clash Royale challenges to win up to 250 $GMI
 * Get up to $250 GMI by providing good feedback
+
+In order to play to earn NFTs, one must authenticate his account as follows:
+
+{% embed url="https://www.youtube.com/watch?v=7tz-OR-Mlks" %}
+Easily verify your account to collect your prizes.
+{% endembed %}
 
 These are the challenges that will be live in the platform:
 

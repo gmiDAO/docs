@@ -13,8 +13,8 @@ Who wins? Everyone.​
   * Thus, everyone is incentivised to get a viral HANDY GAME. ​
     * When HANDY GAME goes viral, big companies will support with their commercials → ↑Revenue → ↑ Higher prize & donation → Better GMI Story
 
-{% embed url="https://www.youtube.com/watch?v=YCbOF4y2J2o" %}
-GMI in a nutshell + The Handy Game in a nutshell
+{% embed url="https://www.youtube.com/watch?v=PWmOH5qxlfQ" %}
+The Handy Game in a nutshell.
 {% endembed %}
 
 Anyone can see Handy Game's deck [here](https://upm365-my.sharepoint.com/:p:/g/personal/m\_cores\_alumnos\_upm\_es/EXKufPAUOPtOnaSX-UGIOt8BdVkfUmP94I-lKwAiRu6u3A?e=z2zhEy)

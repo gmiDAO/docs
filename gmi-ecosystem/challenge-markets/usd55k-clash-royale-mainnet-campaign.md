@@ -35,18 +35,20 @@ Easily verify your account to collect your prizes.
 
 These are the challenges that will be live in the platform:
 
+\<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->
+
 | Title                                          | Number | Entry Requirement ($GMI) |
 | ---------------------------------------------- | ------ | ------------------------ |
-| $24.89K NFT challenge - Solana Monkey Business | 1      | 6000                     |
-| $22.32K NFT challenge - Shadowy Super Coder    | 1      | 5000                     |
-| $5.15K NFT challenge - Thugbirz                | 1      | 2000                     |
-| $1.62K NFT challenge - Playground Waves        | 1      | 1000                     |
+| $24.77K NFT challenge - Solana Monkey Business | 1      | 6000                     |
+| $22.2K NFT challenge - Shadowy Super Coder     | 1      | 5000                     |
+| $5.12K NFT challenge - Thugbirz                | 1      | 2000                     |
+| $1.61K NFT challenge - Playground Waves        | 1      | 1000                     |
 | $1000 NFT challenge - Monke Baby Business      | 1      | 700                      |
-| $763.9404 NFT challenge - Solarians            | 3      | 600                      |
-| $721.0224 NFT challenge - Galactic Geckos      | 1      | 500                      |
+| $760.0511 NFT challenge - Solarians            | 3      | 600                      |
+| $717.3516 NFT challenge - Galactic Geckos      | 1      | 500                      |
 | $360 NFT challenge - DuckSquad                 | 2      | 260                      |
 | $340 NFT challenge - Test Guys                 | 2      | 250                      |
-| $111.5868 NFT challenge - The Tower DAO        | 1      | 190                      |
+| $111.0187 NFT challenge - The Tower DAO        | 1      | 190                      |
 | $46 NFT challenge - CryptoCubs mutants         | 1      | 180                      |
 | $44 NFT challenge - Skull division             | 1      | 175                      |
 | $39 NFT challenge - ROX collection             | 3      | 155                      |

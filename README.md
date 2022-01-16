@@ -66,4 +66,4 @@ Initially, [gonnamakeit.io](https://gonnamakeit.io) will provide the following t
 Gonna Make It in a Nutshell.
 {% endembed %}
 
-Anyone can see GMI´s deck [here](https://upm365-my.sharepoint.com/:p:/r/personal/m\_cores\_alumnos\_upm\_es/\_layouts/15/doc2.aspx?sourcedoc=%7Bdacec1ce-e6d9-4afd-9fd2-0ff26034b2be%7D\&action=default\&PreviousSessionID=42684f85-cb2f-f578-deb3-3eba43e1d611\&cid=64408e44-e186-4d09-a1c9-0c32d63af523).
+Anyone can see _Gonna Make It'_s deck [here](https://upm365-my.sharepoint.com/:p:/r/personal/m\_cores\_alumnos\_upm\_es/\_layouts/15/doc2.aspx?sourcedoc=%7Bdacec1ce-e6d9-4afd-9fd2-0ff26034b2be%7D\&action=default\&PreviousSessionID=42684f85-cb2f-f578-deb3-3eba43e1d611\&cid=64408e44-e186-4d09-a1c9-0c32d63af523).

@@ -28,7 +28,7 @@ We have launched the [Challenge Markets](https://gonnamakeit.gitbook.io/gonna-ma
 
 We will be launching the[ Multiplayer Engine](https://gonnamakeit.gitbook.io/gonna-make-it/gmi-ecosystem/multiplayer-engine) with [League of Legends](https://activeplayer.io/league-of-legends/) (+120 million MAU).
 
-And we will be launching the [Play2mint](https://gonnamakeit.gitbook.io/gonna-make-it/gmi-ecosystem/play2mint) with [The Handy Game](https://gonnamakeit.gitbook.io/gonna-make-it/handy-game/overview) (10-day Clash Royale race for 50% of NFT project revenue).
+And we will be launching the [Play2mint](https://gonnamakeit.gitbook.io/gonna-make-it/gmi-ecosystem/play2mint) with [The Handy Game](https://gonnamakeit.gitbook.io/gonna-make-it/handy-game/overview).
 
 Long term, the idea is to integrate all relevant games with open APIs into _Gonna Make It_ and become the go-to venue for connecting brands, marketers and gamers.
 

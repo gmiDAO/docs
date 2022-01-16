@@ -35,8 +35,6 @@ Easily verify your account to collect your prizes.
 
 These are the challenges that will be live in the platform:
 
-\<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->
-
 | Title                                          | Number | Entry Requirement ($GMI) |
 | ---------------------------------------------- | ------ | ------------------------ |
 | $24.77K NFT challenge - Solana Monkey Business | 1      | 6000                     |

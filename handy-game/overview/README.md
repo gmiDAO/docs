@@ -1,6 +1,6 @@
 # Overview
 
-The Handy Game is a strategy to introduce the GMI platform using the GMI platform.
+The Handy Game is a strategy to introduce the _Gonna Make It_ platform using the _Gonna Make It_ platform.
 
 Who plays? Anyone.​
 
@@ -18,3 +18,9 @@ The Handy Game in a nutshell.
 {% endembed %}
 
 Anyone can see Handy Game's deck [here](https://upm365-my.sharepoint.com/:p:/g/personal/m\_cores\_alumnos\_upm\_es/EXKufPAUOPtOnaSX-UGIOt8BdVkfUmP94I-lKwAiRu6u3A?e=z2zhEy)
+
+### Why CANAT?
+
+{% embed url="https://www.youtube.com/watch?t=3s&v=2ZniW2vPVh8" %}
+Why CANAT?
+{% endembed %}

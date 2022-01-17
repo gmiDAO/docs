@@ -36,12 +36,12 @@ More streams will be added in the future from new business opportunities.
 
 $GGMI tokenomics are the following:
 
-| Use               | Total Supply (MM) | %   | Comments                                                              |
-| ----------------- | ----------------- | --- | --------------------------------------------------------------------- |
-| Staking rewards   | 150               | 15  | For people who stake $GGMI &/or NFTs and vote in gmiDAO's decisions   |
-| Play to earn      | 40                | 4   |                                                                       |
-| Refer to earn     | 60                | 6   |                                                                       |
-| Create to earn    | 100               | 10  | For people who create widely played challenges, rooms and tournaments |
-| Strategic Reserve | 510               | 51  |                                                                       |
-| IDO Pool          | 140               | 14  |                                                                       |
-|                   | 1000              | 100 |                                                                       |
+
+
+| Use                   | Total Supply (MM) | %   | Comments                                                            |
+| --------------------- | ----------------- | --- | ------------------------------------------------------------------- |
+| Staking rewards       | 150               | 15  | For people who stake $GGMI &/or NFTs and vote in gmiDAO's decisions |
+| gmiDAO Operating Team | 200               | 20  |                                                                     |
+| Strategic Reserve     | 500               | 50  |                                                                     |
+| IDO Pool              | 150               | 15  |                                                                     |
+|                       | 1000              | 100 |                                                                     |

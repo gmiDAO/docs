@@ -22,10 +22,10 @@ Once this is done, anyone can perform the following tasks to earn more $GMI toke
 
 Performing the tasks above one earns 50 $GMI tokens, the minimum requirement to enter a challenge in order to win an NFT. One can also perform other tasks to earn more $GMI tokens in order to play challenges with higher NFT rewards. Other ways to earn $GMI include:
 
-* Participating in the bi-daily Meme Contest to win up to 25 $GMI!&#x20;
-* Participating in the bi-daily Video Contest to win up to 25 $GMI!
+* Participating in the daily Meme Contest to win up to 25 $GMI!&#x20;
+* Participating in the daily Video Contest to win up to 25 $GMI!
 * Accomplishing daily Clash Royale challenges to win up to 25 $GMI!
-* providing feedback to get up to 25 $GMI!
+* Providing feedback to get up to 25 $GMI!
 
 In order to play to earn NFTs, one must authenticate his account as follows:
 

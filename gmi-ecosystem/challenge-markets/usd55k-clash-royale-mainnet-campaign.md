@@ -4,7 +4,7 @@ To celebrate its birth, _Gonna Make It_ will be launching Clash Royale Challenge
 
 To obtain access to these challenges and win NFTs, one needs $GMI tokens.
 
-Players can earn 10 $GMI by winning a Clash Royale match on [gonnamakeit.io](https://gonnamakeit.io).&#x20;
+Players can earn 1 $GMI by winning a Clash Royale match on [gonnamakeit.io](https://gonnamakeit.io).&#x20;
 
 {% embed url="https://www.youtube.com/watch?v=z6ETBOmBUBU" %}
 How to easily earn $10 GMI by winning a Clash Royale Match on gonnamakeit.io
@@ -12,20 +12,20 @@ How to easily earn $10 GMI by winning a Clash Royale Match on gonnamakeit.io
 
 Once this is done, anyone can perform the following tasks to earn more $GMI tokens.&#x20;
 
-* 20 GMI tokens: refer people with your referral link. The person you referred earns 5 GMI TOKENS TOO!&#x20;
-* 5 GMI tokens: Join our discord!
-* 5 GMI tokens: Follow @GonnaMakeIt\_HQ on Twitter!&#x20;
-* 5 GMI tokens: Follow @thehandygame on Twitter!
-* 5 GMI tokens: Follow @theHandyGame on Tiktok! (TBD)
-* 5 GMI tokens: Follow @theHandygame\_official on Instagram! (TBD)
-* 5 GMI tokens: Follow @gonnamakeit\_hq on Instagram! (TBD)
+* 2 GMI tokens: refer people with your referral link. The person you referred earns 5 GMI TOKENS TOO!&#x20;
+* 0.5 GMI tokens: Join our discord!
+* 0.5 GMI tokens: Follow @GonnaMakeIt\_HQ on Twitter!&#x20;
+* 0.5 GMI tokens: Follow @thehandygame on Twitter!
+* 0.5 GMI tokens: Follow @theHandyGame on Tiktok! (TBD)
+* 0.5 GMI tokens: Follow @theHandygame\_official on Instagram! (TBD)
+* 0.5 GMI tokens: Follow @gonnamakeit\_hq on Instagram! (TBD)
 
 Performing the tasks above one earns 50 $GMI tokens, the minimum requirement to enter a challenge in order to win an NFT. One can also perform other tasks to earn more $GMI tokens in order to play challenges with higher NFT rewards. Other ways to earn $GMI include:
 
-* Participating in the bi-daily Meme Contest to win up to 250 $GMI!&#x20;
-* Participating in the bi-daily Video Contest to win up to 250 $GMI!
-* Accomplishing daily Clash Royale challenges to win up to 250 $GMI!
-* providing feedback to get up to 250 $GMI!
+* Participating in the bi-daily Meme Contest to win up to 25 $GMI!&#x20;
+* Participating in the bi-daily Video Contest to win up to 25 $GMI!
+* Accomplishing daily Clash Royale challenges to win up to 25 $GMI!
+* providing feedback to get up to 25 $GMI!
 
 In order to play to earn NFTs, one must authenticate his account as follows:
 

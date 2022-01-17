@@ -7,7 +7,7 @@ To obtain access to these challenges and win NFTs, one needs $GMI tokens.
 Players can earn 1 $GMI by winning a Clash Royale match on [gonnamakeit.io](https://gonnamakeit.io).&#x20;
 
 {% embed url="https://www.youtube.com/watch?v=z6ETBOmBUBU" %}
-How to easily earn $10 GMI by winning a Clash Royale Match on gonnamakeit.io
+How to easily earn 1 $GMI by winning a Clash Royale Match on gonnamakeit.io
 {% endembed %}
 
 Once this is done, anyone can perform the following tasks to earn more $GMI tokens.&#x20;
@@ -34,8 +34,6 @@ Easily verify your account to collect your prizes.
 {% endembed %}
 
 These are the challenges that will be live in the platform:
-
-\<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->
 
 | Title                                          | Number | Entry Requirement ($GMI) |
 | ---------------------------------------------- | ------ | ------------------------ |

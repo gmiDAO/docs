@@ -35,18 +35,21 @@ Easily verify your account to collect your prizes.
 
 These are the challenges that will be live in the platform:
 
+\<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->
+
 | Title                                          | Number | Entry Requirement ($GMIs) |
 | ---------------------------------------------- | ------ | ------------------------- |
-| $22.79K NFT challenge - Solana Monkey Business | 1      | 600                       |
-| $22.62K NFT challenge - Shadowy Super Coder    | 1      | 550                       |
-| $4.82K NFT challenge - Thugbirz                | 1      | 200                       |
-| $1.44K NFT challenge - Playground Waves        | 1      | 100                       |
+| $22.08K NFT challenge - Solana Monkey Business | 1      | 600                       |
+| $19.25K NFT challenge - Shadowy Super Coder    | 1      | 550                       |
+| $4.7K NFT challenge - Thugbirz                 | 1      | 200                       |
+| $1.34K NFT challenge - Playground Waves        | 1      | 100                       |
 | $1000 NFT challenge - Monke Baby Business      | 1      | 70                        |
-| $743.13 NFT challenge - Solarians              | 3      | 60                        |
-| $594.504 NFT challenge - Galactic Geckos       | 1      | 50                        |
-| $360 NFT challenge - DuckSquad                 | 2      | 26                        |
-| $340 NFT challenge - Test Guys                 | 2      | 25                        |
-| $104.0382 NFT challenge - The Tower DAO        | 1      | 19                        |
+| $629.63397 NFT challenge - Solarians           | 1      | 60                        |
+| $623.32185 NFT challenge - Galactic Geckos     | 1      | 50                        |
+| $552.3105 NFT challenge - Rude Golems          | 1      | 50                        |
+| $360 NFT challenge - DuckSquad                 | 1      | 26                        |
+| $340 NFT challenge - Test Guys                 | 1      | 25                        |
+| $93.10377 NFT challenge - The Tower DAO        | 1      | 19                        |
 | $46 NFT challenge - CryptoCubs mutants         | 1      | 18                        |
 | $44 NFT challenge - Skull division             | 1      | 17.5                      |
 | $39 NFT challenge - ROX collection             | 3      | 15.5                      |

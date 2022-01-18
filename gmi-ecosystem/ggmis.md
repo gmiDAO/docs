@@ -1,6 +1,6 @@
-# GGMI token
+# GGMIs
 
-$GGMI is gmiDAO's governance token.&#x20;
+$GGMIs are gmiDAO's governance tokens.&#x20;
 
 It can be earned by **playing, referring and creating** GMI experiences.
 
@@ -35,8 +35,6 @@ More streams will be added in the future from new business opportunities.
 ### Tokenomics
 
 $GGMI tokenomics are the following:
-
-
 
 | Use                   | Total Supply (MM) | %   | Comments                                                            |
 | --------------------- | ----------------- | --- | ------------------------------------------------------------------- |

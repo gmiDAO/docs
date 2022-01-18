@@ -1,6 +1,6 @@
-# GMI token
+# GMIs
 
-$GMI is [gonnamakeit.io](https://gonnamakeit.io)'s utility token - this token serves to:
+$GMIs are [gonnamakeit.io](https://gonnamakeit.io)'s utility token - this token serves to:
 
 * Create challenges in GMI
 * Create match rooms in GMI's Multiplayer Engine

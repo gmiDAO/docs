@@ -8,7 +8,7 @@ Even though Web 3.0 offers a new design space for consumer layer applications, t
 
 > "A technology has the potential to be _disruptive_ if the trajectory of improvement is steep enough to intersect the demand of the mainstream market."&#x20;
 
-_Gonna Make It'_s mission is to enable the transition from web 2.0 to web 3.0 at scale.
+_Gonna Make It'_s mission is to enable the transition from web 2.0 to web 3.0 at scale through [gonnamakeit.io](https://gonnamakeit.io).
 
 ### How _Gonna Make It_?
 
@@ -22,7 +22,7 @@ Live-streamed gaming content was also on the rise​ with +27 billion hours of e
 
 Another big brain attractor is money and thanks to blockchain technology, creating scarce digital assets that accrue value in open markets is within anyone's reach.
 
-Using existing games' APIs as oracles to trigger smart contracts in Solana, [_Gonna Make It_'s platform](https://gonnamakeit.io) allows to easily earn and bet digital assets on existing games. Given that gaming and money are two of the biggest attention keepers on earth, we think that [gonnamakeit.io](https://gonnamakeit.io) can be leveraged as alternative content creation and interactive marketing tool.
+Using existing games' APIs as oracles to trigger smart contracts in Solana, [_Gonna Make It_'s platform](https://gonnamakeit.io) allows to easily earn and bet digital assets on existing games and, given that gaming and money are two of the biggest attention keepers on earth, we think that [gonnamakeit.io](https://gonnamakeit.io) can be leveraged as alternative content creation and interactive marketing tool.
 
 We have launched the [Challenge Markets](https://gonnamakeit.gitbook.io/gonna-make-it/gmi-ecosystem/challenge-markets) with [Clash Royale](https://activeplayer.io/clash-royale/) (+15 million MAU).&#x20;
 
@@ -40,7 +40,7 @@ Currently, the only gmiDAO members are the [Gonna Make It team](https://gonnamak
 
 ### What _Gonna Make It_?
 
-As explained, _Gonna Make It'_s platform allows to easily earn and bet digital assets on existing games through [gonnamakeit.io](https://gonnamakeit.io).&#x20;
+As explained, the __ [_Gonna Make It_ platform](https://gonnamakeit.io) allows to easily earn and bet digital assets on existing games.&#x20;
 
 Initially, [gonnamakeit.io](https://gonnamakeit.io) will provide the following tools:
 

@@ -9,7 +9,7 @@
 * [Multiplayer engine](gmi-ecosystem/multiplayer-engine.md)
 * [Play2Mint](gmi-ecosystem/play2mint.md)
 * [Gonna Make It DAO (gmiDAO)](gmi-ecosystem/gonna-make-it-dao-gmidao/README.md)
-  * [GMI token](gmi-ecosystem/gonna-make-it-dao-gmidao/change-requests.md)
+  * [GMIs](gmi-ecosystem/gonna-make-it-dao-gmidao/change-requests.md)
   * [GGMI token](gmi-ecosystem/gonna-make-it-dao-gmidao/ggmi-token.md)
 
 ## Handy Game

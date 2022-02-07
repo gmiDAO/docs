@@ -1,6 +1,6 @@
 # Overview
 
-The _Handy Game's_ objective is to introduce the _Gonna Make It_ platform through the _Gonna Make It_ platform.
+The _Handy Game's_ objective was to introduce the _Gonna Make It_ platform through the _Gonna Make It_ platform.
 
 Who plays? Anyone.​
 

@@ -22,7 +22,7 @@ Live-streamed gaming content was also on the rise​ with +27 billion hours of e
 
 Another big brain attractor is money and thanks to blockchain technology, creating scarce digital assets that accrue value in open markets is within anyone's reach.
 
-Using existing games' APIs as oracles to trigger smart contracts in Solana, [_Gonna Make It_'s platform](https://gonnamakeit.io) allows to easily earn and bet digital assets on existing games and, given that gaming and money are two of the biggest attention keepers on earth, we think that [gonnamakeit.io](https://gonnamakeit.io) can be leveraged as alternative content creation and interactive marketing tool.
+Using existing games' APIs as oracles to trigger smart contracts in Solana, [_Gonna Make It_'s platform](https://gonnamakeit.io) allows to easily earn and bet digital assets on existing games. Given that gaming and money are two of the biggest attention keepers on earth, we think that [gonnamakeit.io](https://gonnamakeit.io) can be leveraged as alternative content creation and interactive marketing tool.
 
 We have launched the [Challenge Markets](https://gonnamakeit.gitbook.io/gonna-make-it/gmi-ecosystem/challenge-markets) with [Clash Royale](https://activeplayer.io/clash-royale/) (+15 million MAU).&#x20;
 

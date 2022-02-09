@@ -2,7 +2,7 @@
 
 $GGMIs are gmiDAO's governance tokens.&#x20;
 
-It can be earned by **playing, referring and creating** GMI experiences.
+They can be earned by **playing, referring and creating** GMI experiences.
 
 $GGMI holders will be able to claim rewards if they stake their tokens in Gonna Make It's governance staking program.
 

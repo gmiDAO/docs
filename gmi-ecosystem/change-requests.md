@@ -3,14 +3,12 @@
 $GMIs are [gonnamakeit.io](https://gonnamakeit.io)'s utility token - this token serves to:
 
 * Fee discounts
-* Create challenges in GMI
-* Create match rooms in GMI's Multiplayer Engine
-* Create tournaments in GMI's Multiplayer Engine
+* Payment method for Gonna Make It's pay2play challenges, matches and tournaments
+* Unlimited challenges in GMI
+* Unlimited match rooms in GMI's Multiplayer Engine
+* Unlimited tournaments in GMI's Multiplayer Engine
 * Have under collateralization allowance
 * Discount in featured challenges, matches or tournaments
-* Boost $GGMI staking rewards
-* Earn $GGMI if $GMI is used to reward challengees
-* ...
 
 ### Tokenomics
 

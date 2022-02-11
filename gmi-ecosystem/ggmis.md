@@ -31,15 +31,3 @@ The Treasury receives inflows from:
 * Usage fees on centralized services provided by gmiDAO (Free2play challenges, Free2play Multiplayer Engine capabilities, Play2mint, ...)
 
 More streams will be added in the future from new business opportunities.
-
-### Tokenomics
-
-$GGMI tokenomics are the following:
-
-| Use                            | Total Supply (MM) | %   | Comments                                                                                                     |
-| ------------------------------ | ----------------- | --- | ------------------------------------------------------------------------------------------------------------ |
-| Staking rewards - Hand Holders | 150               | 15  | Distributed in 5 years according to hand rarity for people who stake their NFTs in GMI's NFT staking program |
-| Staking rewards - GGMI Holders | 250               | 25  | For people who stake $GGMI in gmiDAO's governance staking program                                            |
-| Strategic Reserve              | 500               | 50  |                                                                                                              |
-| IDO Pool                       | 100               | 10  |                                                                                                              |
-|                                | 1000              | 100 |                                                                                                              |

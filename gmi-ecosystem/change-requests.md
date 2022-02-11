@@ -7,7 +7,7 @@ $GMIs are [gonnamakeit.io](https://gonnamakeit.io)'s utility token - this token 
 * Unlimited challenges in GMI
 * Unlimited match rooms in GMI's Multiplayer Engine
 * Unlimited tournaments in GMI's Multiplayer Engine
-* Have under collateralization allowance
+* Have under collateralization allowance in PvP betting
 * Discount in featured challenges, matches or tournaments
 
 ### Tokenomics

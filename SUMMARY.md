@@ -10,7 +10,7 @@
 * [GGMIs](gmi-ecosystem/ggmis.md)
 * [Hand NFTs](gmi-ecosystem/hand-nfts.md)
 * [Gonna Make It DAO (gmiDAO)](gmi-ecosystem/gonna-make-it-dao-gmidao.md)
-* [Why, how, who and what](gmi-ecosystem/readme.md)
+* [Why, how, who and what](<README (1).md>)
 
 ## Handy Game (Deprecated)
 

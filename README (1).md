@@ -46,20 +46,20 @@ Initially, [gonnamakeit.io](https://gonnamakeit.io) will provide the following t
 
 **Challenge Markets (CMs):** anyone can easily create and play challenges for digital assets on existing games.&#x20;
 
-{% content-ref url="../" %}
-[..](../)
+{% content-ref url="./" %}
+[.](./)
 {% endcontent-ref %}
 
 **Multiplayer Engine (ME):** anyone can easily create and play multiplayer matches and tournaments for digital assets on existing games.
 
-{% content-ref url="multiplayer-engine.md" %}
-[multiplayer-engine.md](multiplayer-engine.md)
+{% content-ref url="gmi-ecosystem/multiplayer-engine.md" %}
+[multiplayer-engine.md](gmi-ecosystem/multiplayer-engine.md)
 {% endcontent-ref %}
 
 **Play2mint (P2M):** anyone can easily create and play challenges to mint new digital assets on existing games.
 
-{% content-ref url="play2mint.md" %}
-[play2mint.md](play2mint.md)
+{% content-ref url="gmi-ecosystem/play2mint.md" %}
+[play2mint.md](gmi-ecosystem/play2mint.md)
 {% endcontent-ref %}
 
 {% embed url="https://www.youtube.com/watch?v=M9y8W80KFU0" %}

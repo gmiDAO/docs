@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Why, how, who and what](README.md)
-
 ## GMI ecosystem
 
-* [Challenge Markets](gmi-ecosystem/challenge-markets/README.md)
+* [Challenge Markets](README.md)
   * [$55K Clash Royale mainnet campaign](gmi-ecosystem/challenge-markets/usd55k-clash-royale-mainnet-campaign.md)
 * [Multiplayer engine](gmi-ecosystem/multiplayer-engine.md)
 * [Play2Mint](gmi-ecosystem/play2mint.md)
@@ -12,6 +10,7 @@
 * [GGMIs](gmi-ecosystem/ggmis.md)
 * [Hand NFTs](gmi-ecosystem/hand-nfts.md)
 * [Gonna Make It DAO (gmiDAO)](gmi-ecosystem/gonna-make-it-dao-gmidao.md)
+* [Why, how, who and what](gmi-ecosystem/readme.md)
 
 ## Handy Game (Deprecated)
 

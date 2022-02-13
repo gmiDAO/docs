@@ -1,4 +1,4 @@
-# Multiplayer engine
+# PvP
 
 Decentralized PvP betting in Solana for popular games -&#x20;
 

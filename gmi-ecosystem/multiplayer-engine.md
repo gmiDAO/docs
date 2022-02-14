@@ -1,6 +1,6 @@
-# PvP
+# 🎏 Multiplayer Engine
 
-Decentralized PvP betting in Solana for popular games -&#x20;
+Decentralized PvP betting in Solana for popular games -
 
 Anyone can bid anything s/he/they want to challenge anyone to play a game/tournament in existing games. Solana smart contracts (programs) triggered by the results of the game will distribute the digital assets accordingly among participants. This can be used for Marketing and/or Betting purposes.
 

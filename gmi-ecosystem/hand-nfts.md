@@ -1,3 +1,0 @@
-# Hand NFTs
-
-Hand NFTs

@@ -1,28 +1,28 @@
 # $55K Clash Royale mainnet campaign
 
-To celebrate its birth, _Gonna Make It_ will be launching Clash Royale Challenges with NFTs worth $55k as prizes.&#x20;
+To celebrate its birth, _Gonna Make It_ will be launching Clash Royale Challenges with NFTs worth $55k as prizes.
 
 To obtain access to these challenges and win NFTs, one needs $GMIs.
 
-Players can earn 1 $GMI by winning a Clash Royale match on [gonnamakeit.io](https://gonnamakeit.io).&#x20;
+Players can earn 1 $GMI by winning a Clash Royale match on [gonnamakeit.io](https://gonnamakeit.io).
 
 {% embed url="https://youtu.be/bgM6wMSU6AU" %}
 How to easily earn 1 $GMI by winning a Clash Royale Match on gonnamakeit.io
 {% endembed %}
 
-Once this is done, anyone can perform the following tasks to earn more $GMIs.&#x20;
+Once this is done, anyone can perform the following tasks from his [profile settings](https://gonnamakeit.io/settings/profile) to earn more $GMIs.
 
-* 2 $GMIs: refer people with your referral link. The person you referred earns 0.5 $GMIs too!&#x20;
+* 2 $GMIs: refer people with your referral link. The person you referred earns 0.5 $GMIs too!
 * 0.5 $GMIs: Join our discord!
-* 0.5 $GMIs: Follow @GonnaMakeIt\_HQ on Twitter!&#x20;
-* 0.5 $GMIs: Follow @thehandygame on Twitter!
+* 0.5 $GMIs: Follow [@GonnaMakeIt\_HQ](https://twitter.com/GonnaMakeIt\_HQ) on Twitter!
+* 0.5 $GMIs: Follow [@thehandygame](https://twitter.com/TheHandyGame) on Twitter!
 * 0.5 $GMIs: Follow @theHandyGame on Tiktok! (TBD)
 * 0.5 $GMIs: Follow @theHandygame\_official on Instagram! (TBD)
 * 0.5 $GMIs: Follow @gonnamakeit\_hq on Instagram! (TBD)
 
 Performing the tasks above one earns 5 $GMIs, the minimum requirement to enter a challenge in order to win an NFT. One can also perform other tasks to earn more $GMIs in order to play challenges with higher NFT rewards. Other ways to earn $GMIs include:
 
-* Participating in the daily Meme Contest to win up to 25 $GMIs!&#x20;
+* Participating in the daily Meme Contest to win up to 25 $GMIs!
 * Participating in the daily Video Contest to win up to 25 $GMIs!
 * Accomplishing daily Clash Royale challenges to win up to 25 $GMIs!
 * Providing feedback to get up to 25 $GMIs!
@@ -34,8 +34,6 @@ Easily verify your account to collect your prizes.
 {% endembed %}
 
 These are the challenges that will be live in the platform:
-
-\<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->
 
 | Title                                          | Number | Entry Requirement ($GMIs) |
 | ---------------------------------------------- | ------ | ------------------------- |

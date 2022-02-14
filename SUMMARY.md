@@ -10,8 +10,8 @@
   * [$55K Clash Royale mainnet campaign](gmi-ecosystem/challenge-markets/usd55k-clash-royale-mainnet-campaign.md)
 * [🎏 Multiplayer Engine](gmi-ecosystem/multiplayer-engine.md)
 * [🕹 Play2Mint](gmi-ecosystem/play2mint.md)
-* [💲 GMIs](gmi-ecosystem/change-requests/README.md)
-  * [GGMIs (for the future)](gmi-ecosystem/change-requests/ggmis.md)
+* [💲 GMIs](gmi-ecosystem/GMIs/README.md)
+  * [GGMIs (for the future)](gmi-ecosystem/GMIs/ggmis.md)
 * [🦧 Gonna Make It DAO (gmiDAO)](gmi-ecosystem/gonna-make-it-dao-gmidao.md)
 
 ## Handy Game

@@ -12,14 +12,14 @@ _Gonna Make It_'s mission is to enable the transition from web 2.0 gaming to web
 
 ### How _Gonna Make It_?
 
-Currently, more than 3.2 billion people play games more than 7 hours per week on average and it is estimated that 40% of these people would like to compete for prizes. These data yield a \~1.32B people casual competitive gamers to be served. However, current competitive and social gaming platforms deliver a poor product with significant counterparty risk.
+Currently, more than 3.2 billion people play games more than 7 hours per week on average and it is estimated that 40% of these people would like to compete for prizes. These data yield a \~1.32B base of casual competitive gamers ready to be served. However, current competitive and social gaming platforms deliver a poor product with significant counterparty risk.
 
 Using existing games' real-time results as oracles to trigger smart contracts in Solana, allows for a better competitive and social gaming experience by:
 
 * **Ensuring by code** that prizes and staked assets will get **instantly** distributed according to the results of the game **at** a **low cost**.
 * Allowing users to retain their funds.
 
-Attracting people's attention has become harder than ever but gaming is one of the biggest attention keepers on earth.
+In this century, attracting people's attention has become harder than ever but gaming is one of the biggest attention keepers on earth.
 
 {% hint style="info" %}
 In 2020 people consumed +100B watch time hours in YouTube alone. In this context, +80,000 YouTube gaming creators hit 100K subscribers​, +1,000 YouTube gaming creators hit 5 million subscribers​ and +350 YouTube gaming creators hit 10 million subscribers​.

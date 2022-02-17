@@ -4,7 +4,7 @@
 
 A new web paradigm is being built, its name is Web 3.0 and has the potential to create a more inclusive economy by sharing ownership and upside among platform participants.
 
-Even though Web 3.0 offers a new design space for consumer layer applications, the change must start from current user demand and habits. As Clayton Christensen says in _The Innovator's Dilemma_:
+Even though Web 3.0 offers a new design space for consumer applications, the change must start from current user demand and habits. As Clayton Christensen says in _The Innovator's Dilemma_:
 
 > "A technology has the potential to be _disruptive_ if the trajectory of improvement is steep enough to intersect the demand of the mainstream market."
 
@@ -12,15 +12,14 @@ _Gonna Make It_'s mission is to enable the transition from web 2.0 gaming to web
 
 ### How _Gonna Make It_?
 
-Gaming is a $170B industry expected to grow to over $500B by 2028. Current competitive and social gaming platforms deliver a poor product with significant counterparty risk.&#x20;
+Currently, more than 3.2 billion people play games more than 7 hours per week on average and it is estimated that 40% of these people would like to compete for prizes. These data yield a \~1.32B people casual competitive gamers to be served. However, current competitive and social gaming platforms deliver a poor product with significant counterparty risk.
 
-Solana allows to build a better competitive and social gaming experience by&#x20;
+Using existing games' real-time results as oracles to trigger smart contracts in Solana, allows for a better competitive and social gaming experience by:
 
-instant PvP betting for existing games and removes all counterparty risk Gonna Make It’s vision is to be the main
+* **Ensuring by code** that prizes and staked assets will get **instantly** distributed according to the results of the game **at** a **low cost**.
+* Allowing users to retain their funds.
 
-
-
-In the information overload era, attracting people's attention has become harder than ever. With +3.2B people in the world playing video games more than 7 hours per week, gaming is one of the biggest attention keepers on earth.
+Attracting people's attention has become harder than ever but gaming is one of the biggest attention keepers on earth.
 
 {% hint style="info" %}
 In 2020 people consumed +100B watch time hours in YouTube alone. In this context, +80,000 YouTube gaming creators hit 100K subscribers​, +1,000 YouTube gaming creators hit 5 million subscribers​ and +350 YouTube gaming creators hit 10 million subscribers​.
@@ -30,7 +29,7 @@ Live-streamed gaming content was also on the rise​ with +27 billion hours of e
 
 Another big brain attractor is money and thanks to blockchain technology, creating scarce digital assets that accrue value in open markets is within anyone's reach.
 
-Using existing games' APIs as oracles to trigger smart contracts in Solana, [_Gonna Make It_'s platform](https://gonnamakeit.io) allows to easily earn and bet digital assets on existing games. Given that gaming and money are two of the biggest attention keepers on earth, we think that [gonnamakeit.io](https://gonnamakeit.io) can be leveraged as alternative content creation and interactive marketing tool.
+Given that gaming and money are two of the biggest attention keepers on earth, we think [gonnamakeit.io](https://gonnamakeit.io) can be leveraged as alternative content creation and interactive marketing tool.
 
 We have launched the [Challenge Markets](https://gonnamakeit.gitbook.io/gonna-make-it/gmi-ecosystem/challenge-markets) with [Clash Royale](https://activeplayer.io/clash-royale/) (+15 million MAU).
 
@@ -38,7 +37,7 @@ We will be launching the[ Multiplayer Engine](https://gonnamakeit.gitbook.io/gon
 
 And we will be launching the [Play2mint](https://gonnamakeit.gitbook.io/gonna-make-it/gmi-ecosystem/play2mint) with [The Handy Game](https://gonnamakeit.gitbook.io/gonna-make-it/handy-game/overview).
 
-Long term, the idea is to integrate all relevant games with open APIs into _Gonna Make It_ and become the go-to venue for connecting brands, marketers and gamers.
+Long term, _Gonna Make It_ will not only integrate all relevant games into the platform but also allow any game developer to integrate into it.
 
 ### Who _Gonna Make It_?
 
@@ -52,13 +51,13 @@ As explained, the [_Gonna Make It_ platform](https://gonnamakeit.io) allows to e
 
 Initially, [gonnamakeit.io](https://gonnamakeit.io) will provide the following tools:
 
-**Challenge Markets (CMs):** anyone can easily create and play challenges for digital assets on existing games.
+**Challenge Markets (CMs):** anyone can easily create, play and invest in challenges for digital assets on existing games.
 
 {% content-ref url="../README (1).md" %}
 [README (1).md](<../README (1).md>)
 {% endcontent-ref %}
 
-**Multiplayer Engine (ME):** anyone can easily create and play multiplayer matches and tournaments for digital assets on existing games.
+**Multiplayer Engine (ME):** anyone can easily create, play and invest in multiplayer matches and tournaments for digital assets on existing games.
 
 {% content-ref url="../gmi-ecosystem/multiplayer-engine.md" %}
 [multiplayer-engine.md](../gmi-ecosystem/multiplayer-engine.md)

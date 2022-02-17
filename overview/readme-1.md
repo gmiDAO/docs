@@ -29,6 +29,8 @@ Live-streamed gaming content was also on the rise​ with +27 billion hours of e
 
 Another big brain attractor is money and thanks to blockchain technology, creating scarce digital assets that accrue value in open markets is within anyone's reach.
 
+_Gonna Make It_ will be not only a tool to do more with all relevant games but also a place where any game developer can integrate into.
+
 Given that gaming and money are two of the biggest attention keepers on earth, we think [gonnamakeit.io](https://gonnamakeit.io) can be leveraged as alternative content creation and interactive marketing tool.
 
 We have launched the [Challenge Markets](https://gonnamakeit.gitbook.io/gonna-make-it/gmi-ecosystem/challenge-markets) with [Clash Royale](https://activeplayer.io/clash-royale/) (+15 million MAU).
@@ -37,13 +39,11 @@ We will be launching the[ Multiplayer Engine](https://gonnamakeit.gitbook.io/gon
 
 And we will be launching the [Play2mint](https://gonnamakeit.gitbook.io/gonna-make-it/gmi-ecosystem/play2mint) with [The Handy Game](https://gonnamakeit.gitbook.io/gonna-make-it/handy-game/overview).
 
-Long term, _Gonna Make It_ will not only integrate all relevant games into the platform but also allow any game developer to integrate into it.
-
 ### Who _Gonna Make It_?
 
 The platform is owned and operated by _Gonna Make It DAO (gmiDAO)_ - an organization that anyone can join by holding $GGMI tokens. See our legal entity [here](https://find-and-update.company-information.service.gov.uk/company/13803149).
 
-Currently, the only gmiDAO members are the [Gonna Make It team](https://gonnamakeit.io/about) but we aim to be a hub owned by two of the fiercest communities in the metaverse: the gaming and crypto communities.
+Currently, the only gmiDAO members are the [Gonna Make It team](https://gonnamakeit.io/about) members but we aim to be a hub owned by two of the fiercest communities in the metaverse: the gaming and crypto communities.
 
 ### What _Gonna Make It_?
 

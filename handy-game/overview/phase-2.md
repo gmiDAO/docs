@@ -1,6 +1,6 @@
 # Phase 2
 
-10-day Clash Royale race - the more crowns won, the better.​
+10-day Clash Royale race. Streaks make the velocity of each participant - the more streaks the better (adjusted by arena).​
 
 * Anyone with a Clash Royale account and Solana wallet can play for free to get the most stake of 50% of Phase's 1 revenue. ​
 

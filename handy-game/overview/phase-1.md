@@ -15,10 +15,4 @@ HANDY GAME's marketing size allowance policy per hand:​
 Handy Game Publicity Explanation
 {% endembed %}
 
-Hand supply (21K) issued according to the following procedure:​
-
-* Normal mint. ​
-  * Pay 2 SOL to get a hand.​
-* Play2mint. ​
-  * Play Clash Royale challenges to mint for 0, 0.67, or 1.3 SOL - discount size directly correlated with relative difficulty level.​
-    * Challenges get harder as hands sell out.
+Hand supply will be 21K and anyone can mint through the play2mint.

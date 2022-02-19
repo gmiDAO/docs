@@ -1,6 +1,6 @@
 # Hand NFTs after the Handy Game
 
-Hand NFTs will be the only way to place publicity in official GMI experiences and get preIDO $GGMIs.
+Hand NFTs will be the only way to place publicity in official GMI experiences.
 
 {% embed url="https://youtu.be/iU8m7xMizxA" %}
 Handy Game - coming soon.

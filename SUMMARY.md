@@ -6,7 +6,7 @@
 
 ## GMI ecosystem
 
-* [🥋 Challenge Markets](<README (1).md>)
+* [🥋 Challenge Markets](gmi-ecosystem/challenge-markets/README.md)
   * [$55K Clash Royale mainnet campaign](gmi-ecosystem/challenge-markets/usd55k-clash-royale-mainnet-campaign.md)
 * [🎏 Multiplayer Engine](gmi-ecosystem/multiplayer-engine.md)
 * [🕹 Play2Mint](gmi-ecosystem/play2mint.md)

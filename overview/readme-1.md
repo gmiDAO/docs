@@ -41,7 +41,7 @@ And we will be launching the [Play2mint](https://gonnamakeit.gitbook.io/gonna-ma
 
 ### Who _Gonna Make It_?
 
-The platform is owned and operated by _Gonna Make It DAO (gmiDAO)_ - an organization that anyone can join by holding $GGMI tokens. See our legal entity [here](https://find-and-update.company-information.service.gov.uk/company/13803149).
+The platform is owned and operated by _Gonna Make It DAO (gmiDAO)_ - an organization that anyone can join by holding $GMI tokens. See our legal entity [here](https://find-and-update.company-information.service.gov.uk/company/13803149).
 
 Currently, the only gmiDAO members are the [Gonna Make It team](https://gonnamakeit.io/about) members but we aim to be a hub owned by two of the fiercest communities in the metaverse: the gaming and crypto communities.
 
@@ -53,8 +53,8 @@ Initially, [gonnamakeit.io](https://gonnamakeit.io) will provide the following t
 
 **Challenge Markets (CMs):** anyone can easily create, play and invest in challenges for digital assets on existing games.
 
-{% content-ref url="../README (1).md" %}
-[README (1).md](<../README (1).md>)
+{% content-ref url="../gmi-ecosystem/challenge-markets/" %}
+[challenge-markets](../gmi-ecosystem/challenge-markets/)
 {% endcontent-ref %}
 
 **Multiplayer Engine (ME):** anyone can easily create, play and invest in multiplayer matches and tournaments for digital assets on existing games.

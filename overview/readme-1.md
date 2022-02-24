@@ -37,7 +37,7 @@ We have launched the [Challenge Markets](https://gonnamakeit.gitbook.io/gonna-ma
 
 We will be launching the[ Multiplayer Engine](https://gonnamakeit.gitbook.io/gonna-make-it/gmi-ecosystem/multiplayer-engine) with [League of Legends](https://activeplayer.io/league-of-legends/) (+120 million MAU).
 
-And we will be launching the [Play2mint](https://gonnamakeit.gitbook.io/gonna-make-it/gmi-ecosystem/play2mint) with [The Handy Game](https://gonnamakeit.gitbook.io/gonna-make-it/handy-game/overview).
+And we will be licensing the [Play2mint](https://gonnamakeit.gitbook.io/gonna-make-it/gmi-ecosystem/play2mint) to NFT projects.&#x20;
 
 ### Who _Gonna Make It_?
 
@@ -72,5 +72,3 @@ Initially, [gonnamakeit.io](https://gonnamakeit.io) will provide the following t
 {% embed url="https://www.youtube.com/watch?v=M9y8W80KFU0" %}
 Gonna Make It in a Nutshell.
 {% endembed %}
-
-Anyone can see _Gonna Make It_'s deck [here](https://upm365-my.sharepoint.com/:p:/r/personal/m\_cores\_alumnos\_upm\_es/\_layouts/15/doc2.aspx?sourcedoc=%7Bdacec1ce-e6d9-4afd-9fd2-0ff26034b2be%7D\&action=default\&PreviousSessionID=42684f85-cb2f-f578-deb3-3eba43e1d611\&cid=64408e44-e186-4d09-a1c9-0c32d63af523).

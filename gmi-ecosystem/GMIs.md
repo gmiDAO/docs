@@ -42,17 +42,6 @@ The Treasury receives inflows from:
 
 More streams will be added in the future from new business opportunities.
 
-### Tokenomics
+### Tokenomics - WIP
 
 $GMI's tokenomics are the following:
-
-| Use                 | Total Supply (MM) | %   | Comments                         |
-| ------------------- | ----------------- | --- | -------------------------------- |
-| Team                | 2000              | 20  | 4 months cliff then 1% monthly   |
-| Advisors & Partners | 500               | 5   | 2 months cliff then 1% monthly   |
-| Marketing           | 1000              | 10  | 1% monthly                       |
-| Liquidity           | 500               | 5   | 50% at TGE then 2% monthly       |
-| Community           | 3000              | 30  | 1% monthly                       |
-| Treasury            | 2000              | 20  | 12 months cliff then 1% monthly  |
-| IDO Pool            | 1000              | 10  | 100% at TGE                      |
-|                     | 10000             | 100 |                                  |

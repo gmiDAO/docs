@@ -29,7 +29,7 @@ Live-streamed gaming content was also on the rise​ with +27 billion hours of e
 
 Another big brain attractor is money and thanks to blockchain technology, creating scarce digital assets that accrue value in open markets is within anyone's reach.
 
-_Gonna Make It_ will be not only a tool to do more with all relevant games but also a place where any game developer can integrate into.
+_Gonna Make It_ will be not only a tool to do more with all relevant games but also a place any game developer can integrate into.
 
 Given that gaming and money are two of the biggest attention keepers on earth, we think [gonnamakeit.io](https://gonnamakeit.io) can be leveraged as alternative content creation and interactive marketing tool.
 

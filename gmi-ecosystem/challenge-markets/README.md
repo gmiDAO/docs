@@ -16,6 +16,6 @@ Users only need to input their in-game user ID to play these challenges (they do
 
 ### Pay2play Challenges
 
-Users need to input their in-game user id and have a Solana wallet with some SOL to pay the network fee to play these challenges.
+Users need to input their in-game user ID and have a Solana wallet with some SOL to pay the network fee to play these challenges.
 
 **Because this is a decentralized service, users need to have a Solana wallet with enough Solana to pay and sign the entry fee - even if the entry price is 0, maintaining the state of the match on-chain costs around $0.2 in SOL (most of it is recovered when the match finishes).**

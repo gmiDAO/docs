@@ -4,4 +4,4 @@ _Gonna Make It_’s mission is to allow gamers, marketers, and creators to do mo
 
 For now, the DAO is formed by the [_Gonna Make It_ operating team](https://gonnamakeit.io/about) but our fair launch will change this.
 
-I**f you have any ideas to improve **_**Gonna Make It**_ **share them** [**in our discord**](https://discord.gg/rAnhpNqQmq)**!**
+**If you have any ideas to improve **_**Gonna Make It**_ **feel free to** **share them** [**in our discord**](https://discord.gg/rAnhpNqQmq)**!**

@@ -12,7 +12,7 @@ There are two types of challenges: free2play and pay2play.
 
 Users only need to input their in-game user ID to play these challenges (they don't even need to have a Solana wallet to play these challenges).
 
-**In** [**Solana**](https://solana.com) **(and any other blockchain), the only way to do completely free2play challenges is by centralizing them. Because this is a brand new centralized service provided by gmiDAO, only selected members can create free2play challenges for now - if you want to create challenges,** [**join our discord**](https://discord.gg/rAnhpNqQmq) **and tell us!**
+**In** [**Solana**](https://solana.com) **(and any other blockchain), the only way to do completely free2play challenges is by centralizing them. Because this is a brand new centralized service provided by gmiDAO, only selected members can create free2play challenges for now - if you want to create challenges,** [**join our discord**](https://discord.gg/rAnhpNqQmq) **and let us know!**
 
 ### Pay2play Challenges
 

@@ -1,6 +1,6 @@
 # 🥋 Challenge Markets
 
-[Here](https://gonnamakeit.io/challenges), anyone can easily create and play challenges for digital assets on existing games.
+[Here](https://gonnamakeit.io/challenges), anyone can easily play, create and invest in challenges for popular games.
 
 {% embed url="https://www.youtube.com/watch?v=_WJrLGHLPEo" %}
 Challenge Markets commercial

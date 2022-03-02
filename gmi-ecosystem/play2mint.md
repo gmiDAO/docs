@@ -1,3 +1,7 @@
+---
+description: Play your favorite games to mint digital assets.
+---
+
 # 🕹 Play2Mint
 
 Anyone can use this tool to drop their NFTs avoiding frontrunning and server overload. To have the right to mint NFTs, collectors will have to play a game and achieve the minimum required.

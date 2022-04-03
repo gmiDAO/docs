@@ -37,8 +37,8 @@ These are the challenges that will be live in the platform:
 
 | Title                                          | Number | Entry Requirement ($GMIs) |
 | ---------------------------------------------- | ------ | ------------------------- |
-| $22.08K NFT challenge - Solana Monkey Business | 1      | 600                       |
-| $19.25K NFT challenge - Shadowy Super Coder    | 1      | 550                       |
+| $35.08K NFT challenge - Solana Monkey Business | 1      | 600                       |
+| $10.25K NFT challenge - Shadowy Super Coder    | 1      | 550                       |
 | $4.7K NFT challenge - Thugbirz                 | 1      | 200                       |
 | $1.34K NFT challenge - Playground Waves        | 1      | 100                       |
 | $1000 NFT challenge - Monke Baby Business      | 1      | 70                        |

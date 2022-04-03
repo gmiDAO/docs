@@ -1,3 +1,7 @@
+---
+description: Easily play, create and invest in challenges for popular games.
+---
+
 # 🥋 Challenge Markets
 
 [Here](https://gonnamakeit.io/challenges), anyone can easily play, create and invest in challenges for popular games.

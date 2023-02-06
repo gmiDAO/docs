@@ -43,7 +43,7 @@ And we will be licensing the [Play2mint](https://gonnamakeit.gitbook.io/gonna-ma
 
 The platform is owned and operated by _Gonna Make It DAO (gmiDAO)_ - an organization that anyone can join by holding $GMI tokens. See our legal entity [here](https://find-and-update.company-information.service.gov.uk/company/13803149).
 
-Currently, the only gmiDAO members are the [Gonna Make It team](https://gonnamakeit.io/about) members but we aim to be a hub owned by two of the fiercest communities in the metaverse: the gaming and crypto communities.
+Currently, the only gmiDAO members are the Gonna Make It team members but we aim to be a hub owned by two of the fiercest communities in the metaverse: the gaming and crypto communities.
 
 ### What _Gonna Make It_?
 

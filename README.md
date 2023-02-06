@@ -1,8 +1,8 @@
 # 🔎 Overview
 
-**_Note: what you're about to read didn't make it but we're working on a new product that, according to what we've learned, is gonna make it. For more info contact us [here](https://twitter.com/mc2gmi)!_**
+## **_Note: what you're about to read didn't make it but we're working on a new product that, according to what we've learned, is gonna make it. For more info contact us [here](https://twitter.com/mc2gmi)!_**
 
-\part{A new Part}
+
 
 _Gonna Make It_ provides a single venue to play, create and invest in challenges, matches and tournaments for the world's most popular games through a seamless UI and UX.
 

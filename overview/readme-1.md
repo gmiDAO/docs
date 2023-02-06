@@ -68,7 +68,3 @@ Initially, [gonnamakeit.io](https://gonnamakeit.io) will provide the following t
 {% content-ref url="../gmi-ecosystem/play2mint.md" %}
 [play2mint.md](../gmi-ecosystem/play2mint.md)
 {% endcontent-ref %}
-
-{% embed url="https://www.youtube.com/watch?v=M9y8W80KFU0" %}
-Gonna Make It in a Nutshell.
-{% endembed %}
